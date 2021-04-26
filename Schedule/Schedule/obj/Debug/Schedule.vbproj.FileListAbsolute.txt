@@ -1,0 +1,17 @@
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\Schedule.dll.config
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\Schedule.dll
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\Schedule.pdb
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\Schedule.xml
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\EnvDTE.dll
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\stdole.dll
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\bin\EnvDTE.xml
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.vbprojAssemblyReference.cache
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.Resources.resources
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.vbproj.GenerateResource.cache
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.dll.licenses
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.vbproj.CoreCompileInputs.cache
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.vbproj.CopyComplete
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.dll
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.xml
+C:\Users\jbraun1\Documents\Visual Studio 2017\Projects\Schedule\Schedule\obj\Debug\Schedule.pdb
